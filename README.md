@@ -4,6 +4,7 @@
 1. Clone the repo
 ```Shell
 git clone https://github.com/olnov/clicker.git
+cd clicker
 ```
 2. Install dependencies
 ```Shell
